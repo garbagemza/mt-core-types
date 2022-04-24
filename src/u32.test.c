@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    if(sizeof(i8) != 1) {
+    if(sizeof(u32) != 4) {
         return 1; 
     }
     printf("ok\n");
