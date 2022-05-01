@@ -1,4 +1,4 @@
-#include "include/mt_core_types.h"
+#include <mt_core_types.h>
 #include <stdio.h>
 
 int main() {
